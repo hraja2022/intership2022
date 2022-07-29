@@ -1,5 +1,2 @@
- n = int(input())
-    for i in range(n):
-        a=i*i
-        print(a)
-        
+for i in range(1, int(input())):
+    print((10**(i)//9)*i)

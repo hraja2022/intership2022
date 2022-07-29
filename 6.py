@@ -1,3 +1,5 @@
- n = int(input())
-    print(*range(1,n+1),sep="")
-
+A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
+print((A**B)+(C**D))

@@ -1,8 +1,5 @@
- a = int(input())
-    b = int(input())
-    c=a+b
-    print(c)
-    d=a-b
-    print(d)
-    e=a*b
-    print(e)
+a = int(input());
+b = int(input());
+print(a//b);
+print(a%b);
+print(divmod(a,b));
