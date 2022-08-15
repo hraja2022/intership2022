@@ -1,1 +1,1 @@
-# intership2022
+Task-7 : Descriptive Statistics
